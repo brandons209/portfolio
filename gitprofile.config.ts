@@ -38,7 +38,7 @@ const CONFIG = {
             'The MAC is a robotic system designed to assist elderly individuals and people with disabilities by easing the transportation of household objects such as laundry, groceries, or small furniture items. This autonomous robot is equipped with modular storage options, enabling users to interchange racks or baskets depending on the size and type of load. The MAC follows users to their desired locations using a combination of cameras, LiDAR, ultrasonic, and weight sensors, providing safe and efficient navigation throughout the home. It features a sturdy 4-wheel drivetrain for enhanced stability and smooth maneuvering. Designed with a focus on ease of use, durability, and robustness, MAC ensures reliable performance through a simple interface, minimal user input, and the ability to withstand the physical demands of home environments.',
           imageUrl:
             'https://i.imgur.com/3ufuY8L.jpeg',
-          link: 'https://github.com/brandons209/portfolio/blob/375ddb7ca4354f0494f6a4e12f669489c94d38ef/MAC_design_document.pdf',
+          link: 'https://github.com/brandons209/portfolio/blob/f9607882949e5ad2a3210ab24c46e9dbbad5cf45/MAC_design_document.pdf',
         },
         {
           title: 'Practice Makes Perfect',
@@ -112,7 +112,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/brandons209/portfolio/blob/6e8fb65ffd54329863748ab73e12a3091b759464/resume2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/brandons209/portfolio/blob/main/resume2024.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
