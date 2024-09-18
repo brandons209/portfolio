@@ -67,7 +67,7 @@ const CONFIG = {
         {
           title: 'Homelab',
           description:
-            'I have a 42U server rack running a Dell R620 enterprise server and Dell MD1000 NAS alongside an old desktop with 2 GPUs for AI-related work. An APC Smart-UPS 2200VA UPS powers this. I have been running this homelab for many years and rely on it for a variety of self hosted services, such as Nextcloud, Seafile, Plex, Bitwarden, HomeAssistant, OPNSense for routing, Portainer, NGINX webserver, and more. All of these run on virtual machines under the Proxmox hypervisor. Working on this has helped me build various system and network administration skills applicable to multiple systems, as well as experience building and running Docker containers. In the day of cloud technology, it\'s good to experience what the cloud is doing and build one for yourself.',
+            'I have a 42U server rack running a Dell R620 enterprise server and Dell MD1000 15 drive NAS alongside an old desktop with 2 GPUs for AI-related work. An APC Smart-UPS 2200VA UPS powers all of this. I have been running this homelab for many years and rely on it for a variety of self hosted services, such as Nextcloud, Seafile, Plex, Bitwarden, HomeAssistant, OPNSense for routing, Portainer, NGINX webserver, and more. All of these run on virtual machines under the Proxmox hypervisor. Working on this has helped me build various system and network administration skills applicable to multiple systems, as well as experience building and running Docker containers. In the day of cloud technology, it\'s good to experience what the cloud is doing and build one for yourself.',
           imageUrl:
             'https://i.imgur.com/Jd6Shha.jpeg',
           link: '',
@@ -136,13 +136,6 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'University of Floirda',
-      position: 'Graduate Research Assistant',
-      from: 'August 2021',
-      to: 'July 2024',
-      companyLink: 'https://www.ufl.edu/',
-    },
-    {
       company: 'Florida Solar Energy Center (FSEC)',
       position: 'Reserach Assistant / Systems Administrator',
       from: 'October 2020',
@@ -150,11 +143,11 @@ const CONFIG = {
       companyLink: 'https://energyresearch.ucf.edu/',
     },
     {
-      company: 'Center for Research in Computer Vision (CRCV) at UCF',
-      position: 'Reserach Assistant',
-      from: 'September 2018',
-      to: 'December 2019',
-      companyLink: 'https://www.crcv.ucf.edu/',
+      company: 'University of Floirda',
+      position: 'Graduate Research Assistant',
+      from: 'August 2021',
+      to: 'July 2024',
+      companyLink: 'https://www.ufl.edu/',
     },
     {
       company: 'Orange County Academy',
@@ -162,6 +155,13 @@ const CONFIG = {
       from: 'July 2018',
       to: 'July 2021',
       companyLink: 'https://www.ugo2.org',
+    },
+    {
+      company: 'Center for Research in Computer Vision (CRCV) at UCF',
+      position: 'Reserach Assistant',
+      from: 'September 2018',
+      to: 'December 2019',
+      companyLink: 'https://www.crcv.ucf.edu/',
     },
   ],
   certifications: [
