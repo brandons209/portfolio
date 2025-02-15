@@ -139,6 +139,8 @@ const CONFIG = {
     'Computer Vision',
     'Transformers',
     'Data Science (scipy,pandas,matplotlib)',
+    'LLMs',
+    'Prompt Engineering'
   ],
   experiences: [
     {
