@@ -144,10 +144,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'Temenos USA',
+      position: 'Software Development Engineer',
+      from: 'June 2025',
+      to: 'Present',
+      companyLink: 'https://www.temenos.com/',
+    },
+    {
       company: 'Florida Solar Energy Center (FSEC)',
       position: 'Reserach Assistant / Systems Administrator',
       from: 'October 2020',
-      to: 'Present',
+      to: 'May 2025',
       companyLink: 'https://energyresearch.ucf.edu/',
     },
     {
